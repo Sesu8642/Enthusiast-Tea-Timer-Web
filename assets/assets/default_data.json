@@ -1,0 +1,165 @@
+[
+  {
+    "name": "White Tea",
+    "temperature": 85,
+    "gPer100Ml": 0.6,
+    "infusions": [
+      {
+        "duration": 180
+      },
+      {
+        "duration": 240
+      }
+    ],
+    "subtitle": "western style brewing"
+  },
+  {
+    "name": "Green Tea",
+    "temperature": 80,
+    "gPer100Ml": 0.5,
+    "infusions": [
+      {
+        "duration": 120
+      },
+      {
+        "duration": 180
+      }
+    ],
+    "subtitle": "western style brewing"
+  },
+  {
+    "name": "Oolong Tea (strip)",
+    "temperature": 99,
+    "gPer100Ml": 0.8,
+    "infusions": [
+      {
+        "duration": 120
+      },
+      {
+        "duration": 150
+      },
+      {
+        "duration": 180
+      },
+      {
+        "duration": 210
+      }
+    ],
+    "subtitle": "western style brewing"
+  },
+  {
+    "name": "Oolong Tea (ball)",
+    "temperature": 99,
+    "gPer100Ml": 1,
+    "infusions": [
+      {
+        "duration": 120
+      },
+      {
+        "duration": 150
+      },
+      {
+        "duration": 180
+      },
+      {
+        "duration": 210
+      },
+      {
+        "duration": 240
+      }
+    ],
+    "subtitle": "western style brewing"
+  },
+  {
+    "name": "Black Tea (small leaf)",
+    "temperature": 90,
+    "gPer100Ml": 0.8,
+    "infusions": [
+      {
+        "duration": 120
+      },
+      {
+        "duration": 180
+      },
+      {
+        "duration": 240
+      },
+      {
+        "duration": 320
+      }
+    ],
+    "subtitle": "western style brewing"
+  },
+  {
+    "name": "Black Tea (large leaf)",
+    "temperature": 95,
+    "gPer100Ml": 0.7,
+    "infusions": [
+      {
+        "duration": 120
+      },
+      {
+        "duration": 180
+      },
+      {
+        "duration": 240
+      },
+      {
+        "duration": 320
+      }
+    ],
+    "subtitle": "western style brewing"
+  },
+  {
+    "name": "PuErh Tea (raw)",
+    "temperature": 95,
+    "gPer100Ml": 0.9,
+    "infusions": [
+      {
+        "duration": 120
+      },
+      {
+        "duration": 150
+      },
+      {
+        "duration": 180
+      },
+      {
+        "duration": 210
+      },
+      {
+        "duration": 240
+      },
+      {
+        "duration": 270
+      }
+    ],
+    "subtitle": "western style brewing"
+  },
+  {
+    "name": "PuErh Tea (ripe)",
+    "temperature": 99,
+    "gPer100Ml": 0.9,
+    "infusions": [
+      {
+        "duration": 120
+      },
+      {
+        "duration": 150
+      },
+      {
+        "duration": 180
+      },
+      {
+        "duration": 210
+      },
+      {
+        "duration": 240
+      },
+      {
+        "duration": 270
+      }
+    ],
+    "subtitle": "western style brewing"
+  }
+]
